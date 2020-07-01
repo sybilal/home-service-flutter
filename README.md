@@ -6,9 +6,8 @@
 
 - font_awesome_flutter: [link](https://pub.dev/packages/font_awesome_flutter)
 
-Developed Home Page UI from the design and also used in Bottom Navigation Bar.  
+Developed Home Page UI from the design and also used Animation in Bottom Navigation Bar.
 
 ### Home Service App Final UI
 
-![Preview](home_service_app.gif)
-<!-- ![App UI](/ui.png) -->
+<img src="home_service_app.gif" alt="UI" height="700">
