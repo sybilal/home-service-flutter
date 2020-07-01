@@ -1,16 +1,14 @@
-# home_service
+# Home Service App - Flutter UI
 
-A new Flutter project.
+## [Reference UI on Dribbble](https://dribbble.com/shots/12454925-Home-Service-App-Ui)
 
-## Getting Started
+**Packages we are using:**
 
-This project is a starting point for a Flutter application.
+- font_awesome_flutter: [link](https://pub.dev/packages/font_awesome_flutter)
 
-A few resources to get you started if this is your first Flutter project:
+Developed Home Page UI from the design and also used in Bottom Navigation Bar.  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Home Service App Final UI
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- ![Preview](movie_gif.gif)
+![App UI](/ui.png) -->
