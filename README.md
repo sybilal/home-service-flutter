@@ -10,5 +10,5 @@ Developed Home Page UI from the design and also used in Bottom Navigation Bar.
 
 ### Home Service App Final UI
 
-<img src="home_service_app.gif" alt="UI" height="500">
+<img src="home_service_app.gif" alt="UI" height="700">
 <!-- ![App UI](/ui.png) -->
