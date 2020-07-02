@@ -258,7 +258,7 @@ class _MyAppState extends State<MyApp> {
               selectedIndex: _selectedIndex,
               showElevation: true,
               itemCornerRadius: 8,
-              curve: Curves.easeInOut,
+              curve: Curves.easeOutBack,
               onItemSelected: (index) => setState(() {
                 _selectedIndex = index;
               }),
