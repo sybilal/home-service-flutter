@@ -8,6 +8,8 @@
 
 Developed Home Page UI from the design and also used Animation in Bottom Navigation Bar.
 
+- Library used and customised to make Bottom Navbar: [Github](https://github.com/pedromassango/bottom_navy_bar)
+
 ### Home Service App Final UI
 
 <img src="home_service_app.gif" alt="UI" height="700">
