@@ -2,7 +2,7 @@
 
 ## [Reference UI on Dribbble](https://dribbble.com/shots/12454925-Home-Service-App-Ui)
 
-**Packages we are using:**
+**Package used:**
 
 - font_awesome_flutter: [link](https://pub.dev/packages/font_awesome_flutter)
 
