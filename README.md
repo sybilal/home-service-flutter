@@ -12,4 +12,4 @@ Developed Home Page UI from the design and also used Animation in Bottom Navigat
 
 ### Home Service App Final UI
 
-<video style="width:70%" autoplay loop src="video_demo.mp4" type="video/mp4" />
+<video style="width:70%" autoplay loop src="video_demo.mp4" type="video/mp4"></video>
